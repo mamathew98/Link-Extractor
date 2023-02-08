@@ -9,16 +9,16 @@ This application is a simple Python script that allows you to extract download l
 
 ## Usage
 Clone the repository to your local machine:
-```git clone https://github.com/your-username/zip-file-link-extractor.git```
+`git clone https://github.com/your-username/zip-file-link-extractor.git`
 
 Navigate to the repository:
-```cd link-extractor```
+`cd link-extractor`
 
 Install the required packages:
-```pip install -r requirements.txt```
+`pip install -r requirements.txt`
 
 Run the script:
-```python link_extractor.py```
+`python link_extractor.py`
 
 Or run the .exe file
 Enter the URL of the web page you want to extract links from in the input field, and select the file types you want to extract.
