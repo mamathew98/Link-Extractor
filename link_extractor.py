@@ -65,10 +65,10 @@ entry_file_types.pack(side='left')
 frame_buttons = tk.Frame(root, bg='#2f2f2f')
 frame_buttons.pack(pady=10)
 
-button_submit = tk.Button(frame_buttons, text='Submit', command=submit_handler, width=30)
+button_submit = tk.Button(frame_buttons, text='Extract Links', command=submit_handler, width=30)
 button_submit.pack()
 
-button_save = tk.Button(frame_buttons, text='Save', command=save, width=30)
+button_save = tk.Button(frame_buttons, text='Save Links', command=save, width=30)
 button_save.pack(pady=5)
 
 
