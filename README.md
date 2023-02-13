@@ -10,7 +10,7 @@ This application is a simple Python script that allows you to extract download l
 ## Usage
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/zip-file-link-extractor.git
+git clone https://github.com/mamathew98/Link-Extractor
 ```
 
 Navigate to the repository:
